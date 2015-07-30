@@ -1,8 +1,14 @@
 # jdbc-query
 Jar para ajudar a fazer consultas pelo terminal
 
-Passar os parametros url=<URL> usuario=<usuario> senha=<senha> driver=<driver> sql="<sql>" (use aspas) 
-execute=<Apenas se o sql não tiver resultset> ou help=? 
+Passar os parametros:
+-url=<URL>
+-usuario=<usuario>
+-senha=<senha>
+-driver=<driver>
+-sql="<sql>" (use aspas) 
+-execute=<Apenas se o sql não tiver resultset>
+-help=? 
 
 Exemplo de uso:
 
