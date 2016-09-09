@@ -90,6 +90,7 @@ public class ConexaoJDBC {
 					connection.close();
 				}
 			}catch(Exception e){
+				e.printStackTrace();
 				try {
 					connection.close();
 				} catch (SQLException e1) {
